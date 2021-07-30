@@ -1,0 +1,4 @@
+Hi this a file to test the basic I/O operations in python.
+Hope you are doing good, never lose hope.
+If depressed, then watch F.R.I.E.N.D.S.
+Aim for the Moon,if not then you will land on the Stars!
